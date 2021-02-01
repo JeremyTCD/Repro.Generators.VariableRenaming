@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repro.Generators.VariableRenaming", "Repro.Generators.VariableRenaming\Repro.Generators.VariableRenaming.csproj", "{6D26F007-C6EF-438F-B462-436A2BCF3F64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generators", "Generators\Generators.csproj", "{1A17CCD1-34AD-4816-8ADD-7C2700C11998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D26F007-C6EF-438F-B462-436A2BCF3F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D26F007-C6EF-438F-B462-436A2BCF3F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D26F007-C6EF-438F-B462-436A2BCF3F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D26F007-C6EF-438F-B462-436A2BCF3F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A17CCD1-34AD-4816-8ADD-7C2700C11998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A17CCD1-34AD-4816-8ADD-7C2700C11998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A17CCD1-34AD-4816-8ADD-7C2700C11998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A17CCD1-34AD-4816-8ADD-7C2700C11998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CAF6611-38C2-4F4C-A1AC-2D78E9D6FE0D}
+	EndGlobalSection
+EndGlobal
